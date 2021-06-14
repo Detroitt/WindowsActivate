@@ -1,0 +1,13 @@
+C:\Users\felig\source\repos\ActivateWindows\ActivateWindows\bin\Debug\netcoreapp3.1\ActivateWindows.exe
+C:\Users\felig\source\repos\ActivateWindows\ActivateWindows\bin\Debug\netcoreapp3.1\ActivateWindows.deps.json
+C:\Users\felig\source\repos\ActivateWindows\ActivateWindows\bin\Debug\netcoreapp3.1\ActivateWindows.runtimeconfig.json
+C:\Users\felig\source\repos\ActivateWindows\ActivateWindows\bin\Debug\netcoreapp3.1\ActivateWindows.runtimeconfig.dev.json
+C:\Users\felig\source\repos\ActivateWindows\ActivateWindows\bin\Debug\netcoreapp3.1\ActivateWindows.dll
+C:\Users\felig\source\repos\ActivateWindows\ActivateWindows\bin\Debug\netcoreapp3.1\ActivateWindows.pdb
+C:\Users\felig\source\repos\ActivateWindows\ActivateWindows\obj\Debug\netcoreapp3.1\ActivateWindows.csprojAssemblyReference.cache
+C:\Users\felig\source\repos\ActivateWindows\ActivateWindows\obj\Debug\netcoreapp3.1\ActivateWindows.AssemblyInfoInputs.cache
+C:\Users\felig\source\repos\ActivateWindows\ActivateWindows\obj\Debug\netcoreapp3.1\ActivateWindows.AssemblyInfo.cs
+C:\Users\felig\source\repos\ActivateWindows\ActivateWindows\obj\Debug\netcoreapp3.1\ActivateWindows.csproj.CoreCompileInputs.cache
+C:\Users\felig\source\repos\ActivateWindows\ActivateWindows\obj\Debug\netcoreapp3.1\ActivateWindows.dll
+C:\Users\felig\source\repos\ActivateWindows\ActivateWindows\obj\Debug\netcoreapp3.1\ActivateWindows.pdb
+C:\Users\felig\source\repos\ActivateWindows\ActivateWindows\obj\Debug\netcoreapp3.1\ActivateWindows.genruntimeconfig.cache
